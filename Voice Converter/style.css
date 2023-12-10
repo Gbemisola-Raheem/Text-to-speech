@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#text-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#voices-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#speak-button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+#download-link {
+    display: none;
+}
